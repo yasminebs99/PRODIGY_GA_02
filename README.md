@@ -33,10 +33,10 @@ Install dependencies: Install required libraries using pip install.
 
 ### 5. Getting More Information
 
-Link to your YouTube video demo: SOON
+Link to your YouTube video demo: https://youtu.be/gkaA-VsEE-I
 the vedio describe each ligne of the code and how to use the interface
 
-Link to LinkedIn post about the project: SOON
+Link to LinkedIn post about the project: https://www.linkedin.com/posts/yasmine-ben-saad-039995207_github-yasminebs99prodigyga02-activity-7267108060727312386-0UhF?utm_source=share&utm_medium=member_desktop
 
 ### 6. Contact
 
